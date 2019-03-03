@@ -4,7 +4,7 @@ working out a game with graphics
 
 Possible plot:
 
-A number of dots (let them be enemies) crossing a 2-D field from one side to the opposite. Player is to build some kind of defence (let them be towers) to kill enemies before they manage to cross the field. The only resourse for building towers is obtained due to killing enemies. Classic
+A number of dots (let them be enemies) crossing a 2-D field from one side to the opposite. Player is to build some kind of defense (let them be towers) to kill enemies before they manage to cross the field. The only resourse for building towers is obtained due to killing enemies. Classic
 
 Realization:
 
