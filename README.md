@@ -12,9 +12,20 @@ I'm going to use SDL or, more likely, object-oriented SFML. Actually, I've never
 
 Progress:
 
+//28.03
 1) passed Lunev
 2) managed to install SFML
 
+//04.04
+1) learned about windows, shapes and events
+2) wrote first program (directory FirstProg)
+
 Current aims:
 
+//28.03
 1) start working with SFML (by reading tutorials or wathcing introducing videos)
+
+//04.04
+1) learn about sprites and textures (it'll be also useful for TechnoTrack course)
+
+
