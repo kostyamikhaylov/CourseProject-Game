@@ -20,6 +20,11 @@ Progress:
 1) learned about windows, shapes and events
 2) wrote first program (directory FirstProg)
 
+//12.04
+1) learned about sprites and textures
+2) wrote second program (I'm to lazy to upload it for now)
+
+
 Current aims:
 
 //28.03
@@ -28,4 +33,7 @@ Current aims:
 //04.04
 1) learn about sprites and textures (it'll be also useful for TechnoTrack course)
 
+//12.04
+1) learn how to make sprites automatically;
+2) go on reading SFML tutorials
 
