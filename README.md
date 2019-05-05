@@ -44,6 +44,7 @@ Progress:
 2) implemented smth like ideal gas model (see IdealGas directory)
 
 Current aims:
+
  ̶0̶)̶ ̶z̶a̶b̶o̶t̶a̶t̶'̶ ̶d̶i̶f̶f̶u̶r̶y̶
 1) start coding game (with my plot described above or "bounce" simply)
 
