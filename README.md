@@ -49,6 +49,14 @@ Current aims:
 1) start coding game (with my plot described above or "bounce" simply)
 
 
+//09.05
+Progress:
+1) learned more about inheritance and virtual functions
+2) implemented derived molecules for the ideal gas model; they destroy when their HP are low because of colliding (see IdealGas2 diretory)
+
+Current aims:
+1) write something that can shoot the target for my future game
+
 
 
 
