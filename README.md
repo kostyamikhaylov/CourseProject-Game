@@ -58,6 +58,14 @@ Current aims:
 1) write something that can shoot the target for my future game
 
 
+//13.05
+Progress:
+1) made physics for the game (see GamePhysics directory)
+
+Current aims:
+1) It seems I do not have time... not sure if I'll be able to implement the whole game
+
+
 
 
 
