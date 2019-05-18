@@ -65,6 +65,13 @@ Progress:
 Current aims:
 1) It seems I do not have time... not sure if I'll be able to implement the whole game
 
+//18.05
+Progress:
+1) I DID IT!!! (see MyGame directory)
+
+Current aims:
+1) see MyGame directory
+
 
 
 
