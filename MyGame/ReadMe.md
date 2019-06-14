@@ -1,6 +1,8 @@
-#My Game on SFML
+My Game on SFML
 
 The plot is similar to the one described in parent directory.
+
+See Scheme.png for description of inheritance.
 
 Game control:
 1) press "New Game" to start;
